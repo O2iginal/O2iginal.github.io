@@ -2,10 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://O2iginal.github.io/index.html</loc>
-    <lastmod>2024-04-18T14:20:53.457Z</lastmod>
+    <lastmod>2024-04-20T03:34:29.719Z</lastmod>
+  </url>
+  <url>
+    <loc>https://O2iginal.github.io/posts/welcome/index.html</loc>
+    <lastmod>2024-04-20T03:34:29.723Z</lastmod>
   </url>
   <url>
     <loc>https://O2iginal.github.io/about.html</loc>
-    <lastmod>2024-04-18T14:20:53.457Z</lastmod>
+    <lastmod>2024-04-20T03:34:29.719Z</lastmod>
+  </url>
+  <url>
+    <loc>https://O2iginal.github.io/posts/post-with-code/index.html</loc>
+    <lastmod>2024-04-20T03:34:29.723Z</lastmod>
   </url>
 </urlset>
