@@ -7,5 +7,10 @@ categories: [news]
 
 This is the first post in a Quarto blog. Welcome!
 
+---
+Update: 2025-01-02
+
+突然想起自己还有个Blog，寒假要好好整理一下~
+
 ![](thumbnail.jpg)
 
