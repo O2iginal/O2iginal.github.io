@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "O2iginal’ Blog",
+    "objectID": "posts/20240424-welcome/index.html",
+    "href": "posts/20240424-welcome/index.html",
+    "title": "Welcome To My Blog",
     "section": "",
-    "text": "Welcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nApr 17, 2024\n\n\nO2iginal\n\n\n\n\n\n\nNo matching items"
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nUpdate: 2025-01-02\n突然想起自己还有个Blog，寒假要好好整理一下~"
   },
   {
     "objectID": "about.html",
@@ -14,10 +14,10 @@
     "text": "About this blog"
   },
   {
-    "objectID": "posts/20240424-welcome/index.html",
-    "href": "posts/20240424-welcome/index.html",
-    "title": "Welcome To My Blog",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "O2iginal’ Blog",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nUpdate: 2025-01-02\n突然想起自己还有个Blog，寒假要好好整理一下~"
+    "text": "Welcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nApr 17, 2024\n\n\nO2iginal\n\n\n\n\n\n\nNo matching items"
   }
 ]
